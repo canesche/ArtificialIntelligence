@@ -1,0 +1,11 @@
+### README ###
+
+# Group 1: 
+	Michael Canesche - 68064
+	Lucio Paulo Reis - 78379
+	Jean Martins Vieira de Góes - ??????  
+
+
+1) Download the jFuzzyLogic.jar in http://jfuzzylogic.sourceforge.net/html/index.html. (It's more interesting download the full version)
+2) Run java -jar jFuzzyLogic.jar t3fuzzy.fcl (Note: It's necessary the step one)
+

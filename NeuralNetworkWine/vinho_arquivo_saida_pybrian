@@ -1,0 +1,4803 @@
+Testing on data:
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  7.000]
+error:  0.53233755
+out:     [  5.968]
+correct: [  7.000]
+error:  0.53233755
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  7.000]
+error:  0.53233755
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  4.000]
+error:  1.93684471
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  7.000]
+error:  0.53233755
+out:     [  5.968]
+correct: [  4.000]
+error:  1.93684471
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  4.000]
+error:  1.93684471
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  4.000]
+error:  1.93684471
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  7.000]
+error:  0.53233755
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  4.000]
+error:  1.93684471
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  4.000]
+error:  1.93684471
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  4.000]
+error:  1.93684471
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  7.000]
+error:  0.53233755
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  4.000]
+error:  1.93684471
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  4.000]
+error:  1.93684471
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  4.000]
+error:  1.93684471
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  4.000]
+error:  1.93684471
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  7.000]
+error:  0.53233755
+out:     [  5.968]
+correct: [  4.000]
+error:  1.93684471
+out:     [  5.968]
+correct: [  7.000]
+error:  0.53233755
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  7.000]
+error:  0.53233755
+out:     [  5.968]
+correct: [  7.000]
+error:  0.53233755
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  7.000]
+error:  0.53233755
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  4.000]
+error:  1.93684471
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  7.000]
+error:  0.53233755
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  7.000]
+error:  0.53233755
+out:     [  5.968]
+correct: [  7.000]
+error:  0.53233755
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  7.000]
+error:  0.53233755
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  4.000]
+error:  1.93684471
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  7.000]
+error:  0.53233755
+out:     [  5.968]
+correct: [  4.000]
+error:  1.93684471
+out:     [  5.968]
+correct: [  8.000]
+error:  2.06416850
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  8.000]
+error:  2.06416850
+out:     [  5.968]
+correct: [  7.000]
+error:  0.53233755
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  6.816]
+correct: [  7.000]
+error:  0.01700712
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  7.000]
+error:  0.53233755
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  7.000]
+error:  0.53233755
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  7.000]
+error:  0.53233755
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  7.000]
+error:  0.53233755
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  7.000]
+error:  0.53233755
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  7.000]
+error:  0.53233755
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  7.000]
+error:  0.53233755
+out:     [  5.968]
+correct: [  7.000]
+error:  0.53233755
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  7.000]
+error:  0.53233755
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  7.000]
+error:  0.53233755
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  7.000]
+error:  0.53233755
+out:     [  5.968]
+correct: [  7.000]
+error:  0.53233755
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  7.000]
+error:  0.53233755
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  7.000]
+error:  0.53233755
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  7.000]
+error:  0.53233755
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  7.000]
+error:  0.53233755
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  7.000]
+error:  0.53233755
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  7.000]
+error:  0.53233755
+out:     [  5.968]
+correct: [  8.000]
+error:  2.06416850
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  7.000]
+error:  0.53233755
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  7.000]
+error:  0.53233755
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  4.000]
+error:  1.93684471
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  7.000]
+error:  0.53233755
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  7.000]
+error:  0.53233755
+out:     [  5.968]
+correct: [  7.000]
+error:  0.53233755
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  7.000]
+error:  0.53233755
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  7.000]
+error:  0.53233755
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  7.000]
+error:  0.53233755
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  8.000]
+error:  2.06416850
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  7.000]
+error:  0.53233755
+out:     [  5.968]
+correct: [  7.000]
+error:  0.53233755
+out:     [  5.968]
+correct: [  7.000]
+error:  0.53233755
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  7.000]
+error:  0.53233755
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  8.000]
+error:  2.06416850
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  7.000]
+error:  0.53233755
+out:     [  5.968]
+correct: [  3.000]
+error:  4.40501376
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  8.000]
+error:  2.06416850
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  7.000]
+error:  0.53233755
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  7.000]
+error:  0.53233755
+out:     [  5.968]
+correct: [  7.000]
+error:  0.53233755
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  8.000]
+error:  2.06416850
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  8.000]
+error:  2.06416850
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  7.000]
+error:  0.53233755
+out:     [  5.968]
+correct: [  7.000]
+error:  0.53233755
+out:     [  5.968]
+correct: [  7.000]
+error:  0.53233755
+out:     [  5.968]
+correct: [  7.000]
+error:  0.53233755
+out:     [  5.968]
+correct: [  7.000]
+error:  0.53233755
+out:     [  5.968]
+correct: [  7.000]
+error:  0.53233755
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  7.000]
+error:  0.53233755
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  7.000]
+error:  0.53233755
+out:     [  5.968]
+correct: [  7.000]
+error:  0.53233755
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  3.000]
+error:  4.40501376
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  7.000]
+error:  0.53233755
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  4.000]
+error:  1.93684471
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  4.000]
+error:  1.93684471
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  7.000]
+error:  0.53233755
+out:     [  5.968]
+correct: [  7.000]
+error:  0.53233755
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  7.000]
+error:  0.53233755
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  8.000]
+error:  2.06416850
+out:     [  5.968]
+correct: [  7.000]
+error:  0.53233755
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  4.000]
+error:  1.93684471
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  7.000]
+error:  0.53233755
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  4.000]
+error:  1.93684471
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  7.000]
+error:  0.53233755
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  7.000]
+error:  0.53233755
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  4.000]
+error:  1.93684471
+out:     [  5.968]
+correct: [  7.000]
+error:  0.53233755
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  7.000]
+error:  0.53233755
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  4.000]
+error:  1.93684471
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  3.000]
+error:  4.40501376
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  4.000]
+error:  1.93684471
+out:     [  5.968]
+correct: [  4.000]
+error:  1.93684471
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  4.000]
+error:  1.93684471
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  7.000]
+error:  0.53233755
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  7.000]
+error:  0.53233755
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  7.000]
+error:  0.53233755
+out:     [  5.968]
+correct: [  7.000]
+error:  0.53233755
+out:     [  5.968]
+correct: [  7.000]
+error:  0.53233755
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  4.000]
+error:  1.93684471
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  7.000]
+error:  0.53233755
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  7.000]
+error:  0.53233755
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  8.000]
+error:  2.06416850
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  4.000]
+error:  1.93684471
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  3.000]
+error:  4.40501376
+out:     [  5.968]
+correct: [  4.000]
+error:  1.93684471
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  7.000]
+error:  0.53233755
+out:     [  5.968]
+correct: [  7.000]
+error:  0.53233755
+out:     [  5.968]
+correct: [  7.000]
+error:  0.53233755
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  7.000]
+error:  0.53233755
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  7.000]
+error:  0.53233755
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  7.000]
+error:  0.53233755
+out:     [  5.968]
+correct: [  7.000]
+error:  0.53233755
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  4.000]
+error:  1.93684471
+out:     [  5.968]
+correct: [  7.000]
+error:  0.53233755
+out:     [  5.968]
+correct: [  7.000]
+error:  0.53233755
+out:     [  5.968]
+correct: [  7.000]
+error:  0.53233755
+out:     [  5.968]
+correct: [  4.000]
+error:  1.93684471
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  7.000]
+error:  0.53233755
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  7.000]
+error:  0.53233755
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  7.000]
+error:  0.53233755
+out:     [  5.968]
+correct: [  3.000]
+error:  4.40501376
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  7.000]
+error:  0.53233755
+out:     [  5.968]
+correct: [  7.000]
+error:  0.53233755
+out:     [  5.968]
+correct: [  7.000]
+error:  0.53233755
+out:     [  5.968]
+correct: [  7.000]
+error:  0.53233755
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  7.000]
+error:  0.53233755
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  7.000]
+error:  0.53233755
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  4.000]
+error:  1.93684471
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  7.000]
+error:  0.53233755
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  4.000]
+error:  1.93684471
+out:     [  5.968]
+correct: [  7.000]
+error:  0.53233755
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  7.000]
+error:  0.53233755
+out:     [  5.968]
+correct: [  7.000]
+error:  0.53233755
+out:     [  5.968]
+correct: [  7.000]
+error:  0.53233755
+out:     [  5.968]
+correct: [  7.000]
+error:  0.53233755
+out:     [  5.968]
+correct: [  7.000]
+error:  0.53233755
+out:     [  5.968]
+correct: [  7.000]
+error:  0.53233755
+out:     [  5.968]
+correct: [  7.000]
+error:  0.53233755
+out:     [  5.968]
+correct: [  7.000]
+error:  0.53233755
+out:     [  5.968]
+correct: [  7.000]
+error:  0.53233755
+out:     [  5.968]
+correct: [  7.000]
+error:  0.53233755
+out:     [  5.968]
+correct: [  7.000]
+error:  0.53233755
+out:     [  5.968]
+correct: [  7.000]
+error:  0.53233755
+out:     [  5.968]
+correct: [  7.000]
+error:  0.53233755
+out:     [  5.968]
+correct: [  7.000]
+error:  0.53233755
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  7.000]
+error:  0.53233755
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  7.000]
+error:  0.53233755
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  7.000]
+error:  0.53233755
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  7.000]
+error:  0.53233755
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  7.000]
+error:  0.53233755
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  7.000]
+error:  0.53233755
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  7.000]
+error:  0.53233755
+out:     [  5.968]
+correct: [  7.000]
+error:  0.53233755
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  7.000]
+error:  0.53233755
+out:     [  5.968]
+correct: [  7.000]
+error:  0.53233755
+out:     [  5.968]
+correct: [  7.000]
+error:  0.53233755
+out:     [  5.968]
+correct: [  7.000]
+error:  0.53233755
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  7.000]
+error:  0.53233755
+out:     [  5.968]
+correct: [  7.000]
+error:  0.53233755
+out:     [  5.968]
+correct: [  7.000]
+error:  0.53233755
+out:     [  5.968]
+correct: [  7.000]
+error:  0.53233755
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  7.000]
+error:  0.53233755
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  7.000]
+error:  0.53233755
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  7.000]
+error:  0.53233755
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  7.000]
+error:  0.53233755
+out:     [  5.968]
+correct: [  7.000]
+error:  0.53233755
+out:     [  5.968]
+correct: [  7.000]
+error:  0.53233755
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  7.000]
+error:  0.53233755
+out:     [  5.968]
+correct: [  7.000]
+error:  0.53233755
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  7.000]
+error:  0.53233755
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  7.000]
+error:  0.53233755
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  7.000]
+error:  0.53233755
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  7.000]
+error:  0.53233755
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  7.000]
+error:  0.53233755
+out:     [  5.968]
+correct: [  7.000]
+error:  0.53233755
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  8.000]
+error:  2.06416850
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  7.000]
+error:  0.53233755
+out:     [  5.968]
+correct: [  7.000]
+error:  0.53233755
+out:     [  5.968]
+correct: [  7.000]
+error:  0.53233755
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  7.000]
+error:  0.53233755
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  7.000]
+error:  0.53233755
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  7.000]
+error:  0.53233755
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  7.000]
+error:  0.53233755
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  7.000]
+error:  0.53233755
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  7.000]
+error:  0.53233755
+out:     [  5.968]
+correct: [  7.000]
+error:  0.53233755
+out:     [  5.968]
+correct: [  8.000]
+error:  2.06416850
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  7.000]
+error:  0.53233755
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  7.000]
+error:  0.53233755
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  7.000]
+error:  0.53233755
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  7.000]
+error:  0.53233755
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  8.000]
+error:  2.06416850
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  4.000]
+error:  1.93684471
+out:     [  5.968]
+correct: [  7.000]
+error:  0.53233755
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  7.000]
+error:  0.53233755
+out:     [  5.968]
+correct: [  7.000]
+error:  0.53233755
+out:     [  5.968]
+correct: [  7.000]
+error:  0.53233755
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  7.000]
+error:  0.53233755
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  7.000]
+error:  0.53233755
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  7.000]
+error:  0.53233755
+out:     [  5.968]
+correct: [  7.000]
+error:  0.53233755
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  7.000]
+error:  0.53233755
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  7.000]
+error:  0.53233755
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  7.000]
+error:  0.53233755
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  4.000]
+error:  1.93684471
+out:     [  5.968]
+correct: [  7.000]
+error:  0.53233755
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  4.000]
+error:  1.93684471
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  7.000]
+error:  0.53233755
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  7.000]
+error:  0.53233755
+out:     [  5.968]
+correct: [  8.000]
+error:  2.06416850
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  7.000]
+error:  0.53233755
+out:     [  5.968]
+correct: [  7.000]
+error:  0.53233755
+out:     [  5.968]
+correct: [  7.000]
+error:  0.53233755
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  7.000]
+error:  0.53233755
+out:     [  5.968]
+correct: [  7.000]
+error:  0.53233755
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  7.000]
+error:  0.53233755
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  4.000]
+error:  1.93684471
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  4.000]
+error:  1.93684471
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  4.000]
+error:  1.93684471
+out:     [  5.968]
+correct: [  4.000]
+error:  1.93684471
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  4.000]
+error:  1.93684471
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  4.000]
+error:  1.93684471
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  8.000]
+error:  2.06416850
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  4.000]
+error:  1.93684471
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  7.000]
+error:  0.53233755
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  4.000]
+error:  1.93684471
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  3.000]
+error:  4.40501376
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  4.000]
+error:  1.93684471
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  7.000]
+error:  0.53233755
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  4.000]
+error:  1.93684471
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  4.000]
+error:  1.93684471
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  3.000]
+error:  4.40501376
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  7.000]
+error:  0.53233755
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  8.000]
+error:  2.06416850
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  7.000]
+error:  0.53233755
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  7.000]
+error:  0.53233755
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  7.000]
+error:  0.53233755
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  4.000]
+error:  1.93684471
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  7.000]
+error:  0.53233755
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  7.000]
+error:  0.53233755
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  8.000]
+error:  2.06416850
+out:     [  5.968]
+correct: [  7.000]
+error:  0.53233755
+out:     [  5.968]
+correct: [  7.000]
+error:  0.53233755
+out:     [  5.968]
+correct: [  7.000]
+error:  0.53233755
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  7.000]
+error:  0.53233755
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  4.000]
+error:  1.93684471
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  7.000]
+error:  0.53233755
+out:     [  5.968]
+correct: [  4.000]
+error:  1.93684471
+out:     [  5.968]
+correct: [  7.000]
+error:  0.53233755
+out:     [  5.968]
+correct: [  3.000]
+error:  4.40501376
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  7.000]
+error:  0.53233755
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  7.000]
+error:  0.53233755
+out:     [  5.968]
+correct: [  3.000]
+error:  4.40501376
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  4.000]
+error:  1.93684471
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  4.000]
+error:  1.93684471
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  4.000]
+error:  1.93684471
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  7.000]
+error:  0.53233755
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  3.000]
+error:  4.40501376
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  4.000]
+error:  1.93684471
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  7.000]
+error:  0.53233755
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  7.000]
+error:  0.53233755
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  7.000]
+error:  0.53233755
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  8.000]
+error:  2.06416850
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  7.000]
+error:  0.53233755
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  7.000]
+error:  0.53233755
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+out:     [  5.968]
+correct: [  5.000]
+error:  0.46867566
+out:     [  5.968]
+correct: [  6.000]
+error:  0.00050660
+All errors: 
+[0.4686756566668232, 0.4686756566668232, 0.4686756566668232, 0.00050660462392382408, 0.4686756566668232, 0.4686756566668232, 0.4686756566668232, 0.53233755258102444, 0.53233755258102444, 0.4686756566668232, 0.4686756566668232, 0.4686756566668232, 0.4686756566668232, 0.4686756566668232, 0.4686756566668232, 0.4686756566668232, 0.53233755258102444, 0.4686756566668232, 1.9368447087097227, 0.00050660462392382408, 0.00050660462392382408, 0.4686756566668232, 0.4686756566668232, 0.4686756566668232, 0.00050660462392382408, 0.46867565660634336, 0.46867565659078508, 0.4686756566668232, 0.46867565666377653, 0.00050660462392382408, 0.4686756566668232, 0.00050660462392382408, 0.4686756566668232, 0.00050660462392382408, 0.4686756566668232, 0.00050660462392382408, 0.00050660462392382408, 0.53233755258102444, 1.9368447087097227, 0.4686756566668232, 0.4686756566668232, 1.9368447087097227, 0.00050660462392382408, 0.4686756566668232, 0.46867565661766231, 1.9368447087097227, 0.4686756566668232, 0.4686756566668232, 0.4686756566668232, 0.4686756566668232, 0.4686756566668232, 0.00050660462392382408, 0.00050660462392382408, 0.4686756566668232, 0.00050660462392424811, 0.4686756566668232, 0.46867565665735134, 0.4686756566668232, 0.4686756566668232, 0.00050660462392382408, 0.4686756566668232, 0.4686756566668232, 0.53233755258102444, 0.4686756566668232, 0.4686756566668232, 0.4686756566668232, 0.4686756566668232, 0.4686756566668232, 0.4686756566668232, 0.00050660462392382408, 0.00050660462392382408, 0.4686756566668232, 0.4686756566668232, 1.9368447087097227, 0.4686756566668232, 0.4686756566668232, 0.4686756566668232, 0.00050660462392382408, 0.4686756566668232, 1.9368447087097209, 0.4686756566668232, 0.4686756566668232, 0.4686756566668232, 0.4686756566668232, 0.00050660462392382408, 0.4686756566668232, 0.00050660462392382408, 0.4686756566668232, 0.4686756566668232, 0.4686756566668232, 0.4686756566668232, 0.00050660462392382408, 0.4686756566668232, 0.4686756566668232, 1.9368447087097227, 0.00050660462392382408, 0.4686756566668232, 0.46867565663613053, 0.4686756566668232, 0.00050660462412048101, 0.00050660462392382408, 0.00050660462392382408, 0.00050660462412048101, 0.4686756566668232, 0.46867565666342914, 0.4686756566668232, 0.4686756566668232, 0.4686756566668232, 0.00050660462392382408, 0.4686756566668232, 0.4686756566668232, 0.4686756566668232, 0.4686756566668232, 0.00050660462393697036, 0.4686756566668232, 0.00050660462392478523, 0.00050660462392382408, 0.00050660462392382408, 0.00050660462392382408, 0.00050660462392382408, 0.4686756566668232, 0.00050660462392382408, 0.4686756566668232, 0.46867565666567695, 0.4686756566668232, 0.4686756566668232, 0.4686756566668232, 0.4686756566668232, 0.53233755258102444, 0.4686756566668232, 0.4686756566668232, 0.4686756566668232, 0.4686756566668232, 0.00050660462438614892, 0.00050660462392382408, 0.46867565666674149, 0.4686756566668232, 0.4686756566668232, 0.4686756566668232, 0.4686756566668232, 0.46867565666674149, 0.4686756566668232, 0.00050660462392385227, 0.4686756566668232, 0.00050660462392385227, 0.4686756566668232, 0.4686756566668232, 0.4686756566668232, 0.00050660462392382408, 0.00050660462392382408, 0.00050660462392382408, 1.9368447087096194, 0.4686756566668232, 0.4686756566668232, 0.4686756566668232, 0.4686756566668232, 0.4686756566668232, 0.4686756566668232, 0.4686756566668232, 0.00050660462392382408, 0.4686756566593781, 1.9368447087097227, 0.00050660462392382408, 0.4686756566668232, 0.4686756566668232, 0.46867565666681893, 0.4686756566668232, 1.9368447087097227, 0.00050660462392382408, 0.46867565666658761, 1.9368447087097227, 0.00050660462392382408, 0.00050660462392382408, 0.00050660462392382408, 0.46867565666215222, 0.4686756566668232, 0.46867565666215222, 0.00050660462392382408, 0.4686756566668232, 0.4686756566668232, 0.4686756566668232, 0.46867565666682237, 0.4686756566668232, 0.4686756566668232, 0.00050660462392382408, 0.4686756566668232, 0.4686756566668232, 0.4686756566668232, 0.4686756566668232, 0.4686756566668232, 0.4686756566668232, 0.00050660462392382408, 0.4686756566668232, 0.4686756566668232, 0.4686756566668232, 0.4686756566668232, 0.4686756566668232, 0.00050660462392382408, 0.53233755258102444, 1.9368447087097227, 0.53233755258102444, 0.4686756566668232, 0.4686756566668232, 0.4686756566668232, 0.00050660462392382408, 0.53233755258102444, 0.53233755258102444, 0.4686756566668232, 0.46867565666682065, 0.53233755258102444, 0.00050660462392382408, 0.00050660462392382408, 0.00050660462392382408, 0.46867565666678795, 0.00050660462392382408, 0.4686756566668232, 0.4686756566668232, 0.4686756566668232, 0.4686756566668232, 0.4686756566668232, 0.00050660462392382408, 0.4686756566668232, 0.4686756566668232, 0.00050660462392382408, 1.9368447087097227, 0.00050660462392382408, 0.00050660462392382408, 0.4686756566668232, 0.00050660462392382408, 0.4686756566668232, 0.53233755258102444, 0.00050660462392382408, 0.0005066046239275842, 0.4686756566668232, 0.00050660462392382408, 0.00050660462392382408, 0.00050660462392382408, 0.00050660462392382408, 0.00050660462392382408, 0.00050660462392382408, 0.4686756566668232, 0.00050660462392382408, 0.00050660462392382408, 0.53233755258102444, 0.53233755258102444, 0.00050660462392382408, 0.4686756566668232, 0.4686756566668232, 0.00050660462392382408, 0.00050660462392382408, 0.00050660462392382408, 0.00050660462392382408, 0.46867565666612843, 0.4686756566668232, 0.00050660462392382408, 0.4686756566668232, 0.4686756566668232, 0.4686756566668232, 0.4686756566668232, 0.53233755258102444, 0.4686756566668232, 1.9368447087097227, 0.4686756566650303, 0.4686756566668232, 0.4686756566668232, 0.53233755258102444, 1.9368447087097227, 2.0641685005381252, 0.00050660462392382408, 0.00050660462392382408, 0.00050660462392382408, 0.00050660462392382408, 0.4686756566668232, 0.4686756566668232, 0.4686756566668232, 0.00050660462392382408, 0.00050660462392382408, 0.00050660462392382408, 2.0641685005381252, 0.53233755258102444, 0.00050660462392382408, 0.017007120709578698, 0.4686756566668232, 0.53233755258102444, 0.4686756566668232, 0.4686756566668232, 0.00050660462392382408, 0.00050660462392382408, 0.53233755258102444, 0.4686756566668232, 0.53233755258102444, 0.4686756566668232, 0.00050660462392382408, 0.00050660462392382408, 0.00050660462392382408, 0.4686756566668232, 0.4686756566668232, 0.4686756566668232, 0.4686756566668232, 0.46867565666440342, 0.00050660462392382408, 0.00050660462392382408, 0.4686756566668232, 0.4686756566668232, 0.4686756566668232, 0.00050660462392382408, 0.4686756566668232, 0.00050660462392382408, 0.00050660462392382408, 0.00050660462392382408, 0.00050660462392382408, 0.00050660462392382408, 0.00050660462392382408, 0.4686756566668232, 0.4686756566668232, 0.00050660462392382408, 0.4686756566668232, 0.00050660462392382408, 0.53233755258102444, 0.00050660462392382408, 0.53233755258102444, 0.46867565666682237, 0.4686756566668232, 0.00050660462392413503, 0.00050660462392382408, 0.00050660462392382408, 0.53233755258102444, 0.4686756566668232, 0.00050660462392382408, 0.4686756566668232, 0.00050660462392382408, 0.00050660462392382408, 0.00050660462392382408, 0.4686756566668232, 0.53233755258102444, 0.53233755258102444, 0.00050660462392382408, 0.46867565666676303, 0.00050660462392382408, 0.53233755258102444, 0.00050660462392382408, 0.00050660462392382408, 0.00050660462392382408, 0.00050660462392382408, 0.00050660462392382408, 0.4686756566668232, 0.53233755258102444, 0.00050660462392382408, 0.00050660462392382408, 0.00050660462392382408, 0.00050660462392382408, 0.00050660462392382408, 0.46867565665220051, 0.4686756566668232, 0.00050660462392382408, 0.00050660462392382408, 0.46867565666681549, 0.53233755258102444, 0.53233755258102444, 0.00050660462392382408, 0.4686756566668232, 0.00050660462392382408, 0.4686756566668232, 0.4686756566668232, 0.53233755258102444, 0.00050660462392382408, 0.53233755258102444, 0.4686756566668232, 0.4686756566668232, 0.53233755258102444, 0.4686756566668232, 0.00050660462392382408, 0.00050660462392382408, 0.4686756566668232, 0.00050660462392382408, 0.53233755258102444, 0.00050660462392382408, 0.53233755258102444, 0.00050660462392382408, 0.00050660462392382408, 0.00050660462443734863, 0.00050660462392382408, 0.00050660462443734863, 0.00050660462443734863, 0.4686756566668232, 0.00050660462396382832, 0.00050660462392382408, 0.00050660462392382408, 0.00050660462392382408, 0.53233755258102444, 2.0641685005381252, 0.00050660462392382408, 0.4686756566668232, 0.4686756566668232, 0.4686756566668232, 0.53233755258102444, 0.4686756566668232, 0.00050660462392382408, 0.00050660462392382408, 0.4686756566668232, 0.4686756566668232, 0.00050660462392382408, 0.00050660462392382408, 0.00050660462392382408, 0.4686756566668232, 0.00050660462392382408, 0.00050660462392382408, 0.53233755258102444, 0.00050660462392382408, 1.9368447087096841, 0.00050660462392399365, 0.46867565666681033, 0.46867565666678623, 0.53233755258102444, 0.4686756566668232, 0.4686756566668232, 0.00050660462392382408, 0.4686756566668232, 0.00050660462392382408, 0.4686756566668232, 0.53233755258102444, 0.53233755258102444, 0.4686756566668232, 0.53233755258102444, 0.4686756566668232, 0.53233755258102444, 0.00050660462392382408, 0.00050660462392382408, 0.46867565665793609, 0.00050660462392382408, 0.53233755258102444, 0.4686756566668232, 0.00050660462392382408, 0.4686756566668232, 0.00050660462392382408, 0.4686756566668232, 0.0005066046239256617, 0.00050660462392382408, 0.00050660462392382408, 0.4686756566668232, 2.0641685005381252, 0.00050660462392382408, 0.53233755258102633, 0.53233755258102444, 0.53233755258102444, 0.00050660462392382408, 0.4686756566668232, 0.4686756566668232, 0.00050660462400145773, 0.00050660462392382408, 0.00050660462392382408, 0.00050660462392382408, 0.00050660462392382408, 0.53233755258102444, 0.4686756566668232, 2.0641685005381252, 0.4686756566668232, 0.4686756566668232, 0.53233755258102444, 4.4050137607526221, 0.00050660462392382408, 0.4686756566668232, 0.4686756566668232, 0.4686756566668232, 0.00050660462392382408, 0.4686756566668232, 0.00050660462392382408, 0.00050660462392382408, 0.00050660462422183461, 0.46867565666631417, 0.4686756566668232, 0.00050660462392382408, 0.00050660462392382408, 0.4686756566668232, 0.0005066046243232447, 0.4686756566668232, 0.4686756566668232, 0.00050660462392382408, 0.4686756566668232, 0.00050660462392382408, 0.4686756566668232, 2.0641685005396679, 0.4686756566668232, 0.4686756566668232, 0.00050660462392382408, 0.4686756566668232, 0.4686756566668232, 0.00050660462392382408, 0.53233755258102444, 0.00050660462392382408, 0.00050660462392382408, 0.53233755258102444, 0.53233755258102444, 0.00050660462392382408, 0.00050660462392382408, 2.0641685005406787, 0.00050660462392382408, 0.4686756566668232, 2.0641685005406787, 0.00050660462392382408, 0.00050660462392382408, 0.53233755258102444, 0.53233755258102444, 0.53233755258102444, 0.53233755258102444, 0.53233755258102444, 0.53233755258102444, 0.00050660462392382408, 0.00050660462392464395, 0.53233755258102444, 0.4686756566668232, 0.00050660462392464395, 0.00050660462392382408, 0.53233755258102444, 0.53233755258102444, 0.4686756566668232, 0.00050660462392481352, 4.4050137606309852, 0.00050660462392382408, 0.4686756566668232, 0.00050660462392382408, 0.4686756566668232, 0.4686756566668232, 0.4686756566668232, 0.4686756566668232, 0.4686756566668232, 0.4686756566668232, 0.00050660462392382408, 0.00050660462392382408, 0.4686756566668232, 0.00050660462392382408, 0.4686756566668232, 0.4686756566668232, 0.00050660462392382408, 0.00050660462392382408, 0.00050660462392382408, 0.4686756566668232, 0.00050660462392382408, 0.53233755258102444, 0.46867565666676558, 0.4686756566668232, 0.00050660462392382408, 0.46867565666264921, 0.00050660462392382408, 0.00050660462392382408, 0.4686756566668232, 0.00050660462392382408, 0.00050660462392382408, 0.00050660462392382408, 0.00050660462392382408, 0.00050660462392382408, 0.00050660462392382408, 0.00050660462392382408, 0.4686756566668232, 0.4686756566668232, 0.4686756566668232, 0.00050660462392382408, 0.4686756566668232, 0.00050660462392382408, 0.00050660462392382408, 0.4686756566668232, 0.4686756566668232, 0.4686756566668232, 0.00050660462392382408, 0.00050660462392382408, 0.4686756566668232, 0.00050660462392382408, 0.00050660462392382408, 0.00050660462395848494, 0.00050660462392382408, 0.00050660462392526585, 0.00050660462392382408, 0.4686756566668232, 1.9368447087092646, 0.00050660462392382408, 0.00050660462392382408, 1.9368447087097227, 0.4686756566668232, 0.4686756566668232, 0.00050660462392382408, 0.4686756566668232, 0.4686756566668232, 0.4686756566668232, 0.53233755258102444, 0.53233755258102444, 0.00050660462392382408, 0.53233755258102444, 0.4686756566668232, 2.0641685005381341, 0.53233755258102444, 0.4686756566668232, 0.00050660462392382408, 0.4686756566668232, 0.4686756566668232, 0.4686756566668232, 0.4686756566668232, 0.00050660462392382408, 0.00050660462392382408, 0.00050660462392382408, 0.00050660462392382408, 1.9368447087097227, 0.00050660462392382408, 0.4686756566668232, 0.00050660462392382408, 0.00050660462392382408, 0.00050660462392382408, 0.53233755258102444, 0.00050660462392382408, 0.00050660462392385227, 0.00050660462392382408, 0.4686756566668232, 0.4686756566668232, 0.00050660462392382408, 0.4686756566668232, 0.00050660462392382408, 0.4686756566668232, 0.4686756566668232, 0.00050660462392382408, 0.4686756566668232, 0.4686756566668232, 0.4686756566668232, 0.4686756566668232, 0.4686756566646898, 0.00050660462392382408, 0.4686756566668232, 0.4686756566668232, 0.4686756566668232, 0.4686756566668232, 0.00050660462392382408, 0.4686756566668232, 0.00050660462392382408, 0.4686756566668232, 0.00050660462392382408, 1.9368447087097227, 0.4686756566668232, 0.4686756566668232, 0.4686756566668232, 0.4686756566668232, 0.53233755258102444, 0.00050660462392382408, 0.4686756566668232, 0.4686756566668232, 0.4686756566668232, 0.4686756566668232, 0.4686756566668232, 0.53233755258102444, 0.4686756566668232, 1.9368447087065919, 0.53233755258102444, 0.00050660462392382408, 0.4686756566668232, 0.4686756566668232, 0.4686756566668232, 0.00050660462392382408, 0.4686756566668232, 0.4686756566668232, 0.4686756566668232, 0.53233755258102444, 0.00050660462392382408, 1.9368447087097227, 0.00050660462392382408, 0.46867565666084082, 0.00050660462392382408, 0.00050660462446505477, 0.4686756566668232, 0.4686756566668232, 0.00050660462392382408, 0.00050660462392382408, 0.4686756566668232, 0.00050660462392382408, 0.4686756566668232, 0.4686756566668232, 0.4686756566668232, 0.4686756566668232, 0.00050660462392382408, 0.4686756566668232, 0.00050660462392382408, 0.4686756566668232, 0.4686756566668232, 0.46867565666669248, 0.46867565666607253, 0.00050660462392382408, 0.4686756566668232, 0.4686756566668232, 0.4686756566668232, 0.4686756566668232, 0.46867565666335176, 0.4686756566668232, 0.4686756566668232, 0.4686756566668232, 4.4050137607526221, 0.4686756566668232, 0.4686756566668232, 0.4686756566668232, 0.4686756566668232, 0.00050660462392382408, 0.00050660462392382408, 0.00050660462392382408, 0.4686756566668232, 0.00050660462392382408, 0.00050660462392382408, 0.00050660462392382408, 0.00050660462392382408, 1.9368447087097227, 1.9368447087097227, 0.4686756566668232, 0.4686756566668232, 0.4686756566668232, 0.00050660462392382408, 0.00050660462392382408, 0.46867565666682237, 0.4686756566668232, 0.4686756566668232, 0.4686756566668232, 0.4686756566668232, 0.00050660462392382408, 0.4686756566668232, 0.4686756566668232, 0.4686756566668232, 0.4686756566668232, 0.4686756566668232, 0.4686756566668232, 0.4686756566668232, 0.4686756566668232, 1.9368447087097227, 0.4686756566668232, 0.00050660462392382408, 0.4686756566668232, 0.4686756566668232, 0.00050660462392382408, 0.4686756566668232, 0.4686756566668232, 0.4686756566668232, 0.4686756566668232, 0.4686756566668232, 0.4686756566668232, 0.4686756566668232, 0.00050660462392382408, 0.4686756566668232, 0.4686756566668232, 0.00050660462392382408, 0.4686756566668232, 0.4686756566668232, 0.4686756566668232, 0.4686756566668232, 0.00050660462415788425, 0.00050660462393773364, 0.4686756566668232, 0.00050660462392382408, 0.00050660462415788425, 0.4686756566668232, 0.4686756566668232, 0.4686756566668232, 0.4686756566668232, 0.00050660462392382408, 0.00050660462392382408, 0.00050660462392382408, 0.4686756566668232, 0.4686756566668232, 0.4686756566668232, 0.4686756566668232, 0.4686756566668232, 0.00050660462392382408, 0.4686756566668232, 0.00050660462392382408, 0.00050660462392382408, 0.4686756566668232, 0.4686756566668232, 0.00050660462392382408, 0.4686756566668232, 0.00050660462392382408, 0.4686756566668232, 0.4686756566668232, 0.00050660462392382408, 0.00050660462392382408, 0.4686756566668232, 0.00050660462392382408, 0.00050660462392382408, 0.4686756566668232, 0.4686756566668232, 0.00050660462396880405, 0.4686756566668232, 0.4686756566668232, 0.4686756566668232, 0.4686756566668232, 0.4686756566668232, 0.4686756566668232, 0.00050660462392382408, 0.00050660462392382408, 0.4686756566668232, 0.00050660462392382408, 0.4686756566668232, 0.00050660462392382408, 0.4686756566668232, 0.00050660462392382408, 0.4686756566668232, 0.4686756566668232, 0.53233755258102444, 0.00050660462392382408, 0.00050660462392382408, 0.4686756566668232, 0.4686756566668232, 0.53233755258102444, 0.00050660462392382408, 0.00050660462392382408, 0.53233755258102444, 0.53233755258102444, 0.53233755258102444, 0.4686756566668232, 0.00050660462414012979, 0.4686756566668232, 0.00050660462392382408, 0.4686756566668232, 1.9368447087097227, 0.00050660462392382408, 0.4686756566668232, 0.00050660462392382408, 0.00050660462392382408, 0.4686756566668232, 0.4686756566668232, 0.4686756566668232, 0.53233755258102444, 0.4686756566668232, 0.4686756566668232, 0.4686756566668232, 0.4686756566668232, 0.53233755259374382, 0.4686756566668232, 2.0641685005381252, 0.00050660462392382408, 1.9368447087097227, 0.00050660462392382408, 4.4050137607526221, 1.9368447087097227, 0.4686756566668232, 0.4686756566668232, 0.53233755258102444, 0.53233755258102444, 0.53233755258102444, 0.4686756566668232, 0.53233755258102444, 0.4686756566668232, 0.00050660462392382408, 0.4686756566668232, 0.00050660462392382408, 0.4686756566668232, 0.4686756566668232, 0.00050660462392382408, 0.4686756566668232, 0.46867565666195871, 0.4686756566668232, 0.4686756566668232, 0.4686756566668232, 0.00050660462392622711, 0.00050660462392622711, 0.53233755258102444, 0.00050660462392622711, 0.53233755258102444, 0.53233755258102444, 0.00050660462392382408, 0.4686756566668232, 0.00050660462392382408, 0.4686756566668232, 0.4686756566668232, 0.4686756566668232, 0.4686756566668232, 0.00050660462392382408, 0.00050660462392382408, 0.00050660462392382408, 0.0005066046239295066, 0.00050660462392382408, 0.4686756566668232, 1.9368447087097227, 0.53233755258102444, 0.53233755258102444, 0.53233755258102444, 1.9368447087097227, 0.00050660462392382408, 0.00050660462392382408, 0.4686756566668232, 0.4686756566668232, 0.00050660462392382408, 0.00050660462392382408, 0.4686756566668232, 0.00050660462392382408, 0.4686756566668232, 0.00050660462392382408, 0.53233755258102444, 0.00050660462392382408, 0.4686756566668232, 0.4686756566668232, 0.4686756566668232, 0.00050660462392382408, 0.4686756566668232, 0.00050660462392393716, 0.00050660462393131603, 0.53233755258102444, 0.00050660462393131603, 0.53233755258102444, 4.4050137607526221, 0.4686756566668232, 0.53233755258143689, 0.53233755258143689, 0.53233755258118209, 0.53233755258118209, 0.4686756566668232, 0.4686756566668232, 0.00050660462392382408, 0.00050660462392382408, 0.00050660462392382408, 0.00050660462392382408, 0.00050660462392382408, 0.00050660462392382408, 0.53233755258102444, 0.00050660462392382408, 0.00050660462392382408, 0.4686756566668232, 0.00050660462392382408, 0.00050660462392382408, 0.00050660462392382408, 0.4686756566668232, 0.00050660462392382408, 0.00050660462392382408, 0.00050660462392382408, 0.4686756566668232, 0.53233755258102444, 0.00050660462392382408, 1.9368447087097227, 0.4686756566668232, 0.53233755258102444, 0.46867565666420219, 0.4686756566668232, 0.00050660462392382408, 0.4686756566668232, 0.46867565666420219, 0.00050660462392388057, 0.00050660462392388057, 1.9368447087097227, 0.53233755258102444, 0.4686756566668232, 0.53233755258102444, 0.53233755258102444, 0.53233755258102444, 0.53233755258102444, 0.53233755258113713, 0.53233755258102444, 0.53233755258102444, 0.53233755258102444, 0.53233755258102444, 0.53233755258102444, 0.53233755258102444, 0.53233755258102444, 0.53233755258102444, 0.53233755258102444, 0.00050660462392382408, 0.46867565666090616, 0.00050660462392382408, 0.00050660462392382408, 0.5323375525813534, 0.4686756566668232, 0.00050660462392382408, 0.4686756566668232, 0.4686756566668232, 0.00050660462396354556, 0.00050660462392382408, 0.00050660462392382408, 0.53233755258102444, 0.4686756566668232, 0.00050660462392382408, 0.4686756566668232, 0.00050660462392382408, 0.00050660462392382408, 0.53233755258102444, 0.4686756566668232, 0.53233755258102444, 0.4686756566668232, 0.4686756566668232, 0.4686756566668232, 0.53233755258102444, 0.4686756566668232, 0.00050660462392382408, 0.4686756566668232, 0.00050660462392385227, 0.00050660462392382408, 0.4686756566668232, 0.00050660462392382408, 0.53233755258102444, 0.46867565666663147, 0.4686756566668232, 0.00050660462392382408, 0.4686756566668232, 0.4686756566668232, 0.00050660462392382408, 0.4686756566668232, 0.4686756566668232, 0.00050660462392382408, 0.53233755258102444, 0.53233755258102444, 0.00050660462599726034, 0.00050660462392382408, 0.53233755258102444, 0.53233755258102444, 0.53233755258102444, 0.53233755258102444, 0.4686756566668232, 0.53233755258102444, 0.53233755258102444, 0.53233755258102444, 0.53233755258113713, 0.4686756566668232, 0.53233755258102444, 0.00050660462392382408, 0.4686756566668232, 0.00050660462392382408, 0.00050660462413758527, 0.00050660462392382408, 0.53233755258102444, 0.00050660462392382408, 0.00050660462392382408, 0.4686756566668232, 0.00050660462392382408, 0.00050660462392382408, 0.4686756566668232, 0.00050660462392382408, 0.53233755258102444, 0.00050660462392382408, 0.00050660462392382408, 0.4686756566668232, 0.00050660462392382408, 0.53233755258102444, 0.53233755258102444, 0.53233755258102444, 0.4686756566668232, 0.00050660462392382408, 0.00050660462392382408, 0.53233755258102444, 0.53233755258102444, 0.4686756566668232, 0.53233755258102444, 0.00050660462392382408, 0.4686756566668232, 0.00050660462392382408, 0.00050660462392382408, 0.53233755258102444, 0.00050660462392382408, 0.00050660462394205917, 0.00050660462392382408, 0.4686756566668232, 0.00050660462392382408, 0.00050660462392382408, 0.4686756566668232, 0.4686756566668232, 0.4686756566668232, 0.53233755258126825, 0.00050660462392382408, 0.00050660462392382408, 0.53233755258102444, 0.4686756566668232, 0.53233755258102444, 0.53233755258102444, 0.00050660462392382408, 2.0641685005381252, 0.00050660462392382408, 0.00050660462392382408, 0.00050660462392382408, 0.00050660462392382408, 0.53233755258120685, 0.53233755258552973, 0.53233755258552973, 0.4686756566668232, 0.53233755258102444, 0.4686756566668232, 0.00050660462392382408, 0.00050660462392382408, 0.4686756566668232, 0.53233755258102444, 0.00050660462392382408, 0.468675656666309, 0.468675656666309, 0.53233755258102444, 0.00050660462392382408, 0.53233755258102444, 0.00050660462392382408, 0.00050660462392382408, 0.00050660462392382408, 0.4686756566668232, 0.53233755258102444, 0.00050660462392382408, 0.53233755258102444, 0.53233755258102444, 2.0641685005381252, 0.00050660462392382408, 0.00050660462392382408, 0.53233755258102444, 0.00050660462392382408, 0.4686756566668232, 0.00050660462392382408, 0.4686756566668232, 0.53233755258102444, 0.4686756566668232, 0.00050660462392382408, 0.00050660462392382408, 0.00050660462392382408, 0.00050660462392382408, 0.00050660462392382408, 0.4686756566668232, 0.00050660462392382408, 0.53233755258102444, 0.46867565666091132, 0.00050660462392382408, 0.0005066046246889938, 0.53233755258102444, 0.00050660462392382408, 0.00050660462392382408, 0.00050660462392382408, 0.00050660462392382408, 0.00050660462392382408, 0.00050660462392382408, 0.00050660462392382408, 0.4686756566668232, 2.0641685005381252, 0.00050660462392382408, 0.00050660462392382408, 0.00050660462392382408, 1.9368447087097227, 0.53233755258102444, 0.00050660462392382408, 0.00050660462392382408, 0.4686756566668232, 0.00050660462392382408, 0.00050660462392382408, 0.4686756566668232, 0.53233755258102444, 0.53233755258102444, 0.53233755258102444, 0.00050660462392382408, 0.00050660462396648581, 0.00050660462396648581, 0.4686756566668232, 0.00050660462392382408, 0.00050660462392549202, 0.00050660462392405025, 0.00050660462392382408, 0.00050660462392382408, 0.4686756566668232, 0.00050660462392382408, 0.00050660462392382408, 0.53233755258102444, 0.00050660462392382408, 0.00050660462392382408, 0.53233755258102444, 0.00050660462392382408, 0.4686756566668232, 0.00050660462392382408, 0.00050660462392424811, 0.4686756566668232, 0.53233755258102444, 0.53233755258102444, 0.00050660462392382408, 0.46867565666659705, 0.53233755258102444, 0.00050660462392382408, 0.53233755258102444, 0.4686756566668232, 0.4686756566668232, 0.4686756566668232, 0.4686756566668232, 0.53233755258102444, 0.00050660462392382408, 0.00050660462392382408, 0.00050660462392382408, 0.00050660462392382408, 0.00050660462392382408, 0.00050660462392382408, 0.00050660462392382408, 0.00050660462392382408, 1.9368447087097227, 0.53233755258102444, 0.4686756566668232, 0.00050660462392382408, 0.00050660462392382408, 0.4686756566668232, 0.00050660462392382408, 0.46867565666645772, 0.4686756566668232, 0.00050660462392382408, 0.4686756566668232, 0.00050660462392382408, 0.4686756566668232, 1.9368447087097227, 0.00050660462392472874, 0.4686756566668232, 0.53233755258102444, 0.4686756566668232, 0.00050660462392382408, 0.00050660462392382408, 0.00050660462392382408, 0.00050660462392382408, 0.00050660462392382408, 0.00050660462392382408, 0.00050660462392382408, 0.53233755258102444, 2.0641685005381252, 0.4686756566668232, 0.53233755258102444, 0.53233755258102444, 0.53233755258102444, 0.4686756566668232, 0.53233755258102444, 0.53233755258102444, 0.00050660462392382408, 0.4686756566668232, 0.00050660462392382408, 0.00050660462392382408, 0.00050660462392382408, 0.00050660462392382408, 0.00050660462392382408, 0.00050660462392382408, 0.00050660462392382408, 0.00050660462392382408, 0.00050660462392382408, 0.00050660462392382408, 0.00050660462392382408, 0.00050660462392382408, 0.00050660462395987033, 0.4686756566668232, 0.46867565666649902, 0.4686756566668232, 0.53233755258102444, 0.4686756566668232, 0.00050660462392382408, 0.4686756566668232, 0.4686756566668232, 1.9368447087097227, 0.00050660462392382408, 1.9368447087097227, 0.0005066046250346702, 0.00050660462392382408, 1.9368447087097227, 1.9368447087097227, 0.4686756566668232, 0.4686756566668232, 0.00050660462392382408, 0.4686756566668232, 0.00050660462392382408, 0.4686756566668232, 0.4686756566668232, 0.4686756566668232, 0.00050660462392382408, 0.00050660462392382408, 0.00050660462392382408, 0.4686756566668232, 0.4686756566668232, 0.4686756566668232, 0.4686756566668232, 0.4686756566668232, 0.4686756566668232, 0.00050660462392382408, 0.00050660462392382408, 0.00050660462392382408, 0.4686756566668232, 1.9368447087097227, 0.4686756566668232, 1.9368447087097227, 0.00050660462392382408, 0.00050660462392382408, 0.00050660462392382408, 0.00050660462392382408, 0.00050660462392382408, 2.0641685005381252, 0.00050660462392382408, 0.00050660462392382408, 0.4686756566668232, 0.4686756566668232, 0.00050660462392382408, 0.00050660462392382408, 1.9368447087095986, 0.00050660462392382408, 0.00050660462392382408, 0.53233755258102444, 0.00050660462392382408, 0.00050660462392382408, 0.00050660462392382408, 0.00050660462392382408, 0.4686756566668232, 0.46867565666670713, 0.00050660462392382408, 0.4686756566668232, 0.4686756566668232, 0.4686756566668232, 0.46867565666295707, 0.00050660462392382408, 0.00050660462392382408, 1.9368447087097227, 0.00050660462392382408, 0.4686756566668232, 0.4686756566668232, 0.00050660462392382408, 0.00050660462392382408, 4.4050137607526221, 0.00050660462392891289, 0.00050660462392413503, 0.00050660462392382408, 0.4686756566668232, 0.4686756566668232, 0.4686756566668232, 0.4686756566668232, 1.9368447087097227, 0.4686756566668232, 0.4686756566668232, 0.4686756566668232, 0.00050660462392382408, 0.4686756566668232, 0.00050660462392382408, 0.00050660462392382408, 0.00050660462392382408, 0.00050660462392382408, 0.00050660462392382408, 0.00050660462392382408, 0.00050660462392382408, 0.4686756566668232, 0.00050660462392382408, 0.4686756566668232, 0.5323375525810895, 0.00050660462392382408, 0.00050660462392382408, 0.00050660462392382408, 0.00050660462392382408, 0.4686756566668232, 0.00050660462392382408, 0.00050660462392382408, 0.4686756566668232, 0.00050660462392382408, 0.4686756566668232, 0.4686756566668232, 0.00050660462392382408, 0.4686756566668232, 0.4686756566668232, 0.4686756566668232, 0.00050660462392382408, 0.00050660462392382408, 0.00050660462392382408, 0.00050660462392382408, 0.00050660462392382408, 0.4686756566668232, 0.00050660462392382408, 0.4686756566668232, 0.4686756566668232, 0.4686756566668232, 0.4686756566668232, 0.4686756566668232, 0.00050660462392382408, 0.4686756566668232, 0.4686756566668232, 0.4686756566668232, 0.4686756566668232, 0.4686756566668232, 0.00050660462392382408, 0.4686756566668232, 0.00050660462392382408, 0.4686756566668232, 0.4686756566668232, 0.00050660462392382408, 1.9368447087096299, 0.00050660462392382408, 0.4686756566668232, 0.4686756566668232, 0.00050660462392382408, 0.00050660462392382408, 1.9368447087097227, 0.4686756566668232, 0.00050660462392382408, 0.4686756566668232, 0.46867565666682148, 4.4050137607526221, 0.4686756566668232, 0.4686756566668232, 0.00050660462392388057, 0.00050660462392382408, 0.00050660462392382408, 0.00050660462392382408, 0.4686756566668232, 0.46867565666682237, 0.46867565666682237, 0.4686756566668232, 0.4686756566668232, 0.46867565665540878, 0.46867565665540878, 0.4686756566668232, 0.46867565666682237, 0.00050660462392382408, 0.4686756566668232, 0.46867565660899535, 0.4686756566668232, 0.46867565666680083, 0.00050660462392382408, 0.46867565663545896, 0.46867565666682237, 0.53233755258102444, 0.00050660462392382408, 0.4686756566668232, 0.4686756566668232, 0.00050660462392382408, 2.0641685005381252, 0.00050660462392382408, 0.53233755258102444, 0.00050660462392382408, 0.00050660462392382408, 0.53233755258102444, 0.00050660462392382408, 0.00050660462392382408, 0.00050660462392382408, 0.00050660462392382408, 0.4686756566668232, 0.4686756566668232, 0.4686756566668232, 0.4686756566668232, 0.53233755258102444, 0.4686756566668232, 0.4686756566668232, 0.4686756566668232, 0.4686756566668232, 0.00050660462392382408, 1.9368447087097227, 0.00050660462392382408, 0.00050660462392382408, 0.00050660462392382408, 0.4686756566668232, 0.4686756566668232, 0.4686756566668232, 0.4686756566668232, 0.00050660462392382408, 0.00050660462392382408, 0.53233755258102444, 0.00050660462392382408, 0.00050660462392382408, 0.4686756566668232, 0.46867565666681033, 0.4686756566668232, 0.00050660462392382408, 0.53233755258102444, 0.00050660462392382408, 0.4686756566668232, 0.4686756566668232, 0.00050660462392382408, 0.00050660462392382408, 0.4686756566668232, 0.46867565666489269, 0.46867565666635114, 2.0641685005381252, 0.53233755258102444, 0.53233755258102444, 0.53233755258102444, 0.4686756566668232, 0.00050660462392382408, 0.00050660462392382408, 0.00050660462392396535, 0.4686756566668232, 0.4686756566668232, 0.53233755258102444, 0.00050660462392382408, 1.9368447086797727, 0.00050660462392382408, 0.00050660462392382408, 0.4686756566668232, 0.4686756566668232, 0.53233755258102444, 1.9368447087097227, 0.53233755258102444, 4.4050137607526221, 0.4686756566668232, 0.4686756566668232, 0.00050660462392382408, 0.4686756566668232, 0.4686756566668232, 0.53233755258102444, 0.4686756566668232, 0.53233755258102444, 4.4050137607526221, 0.4686756566668232, 1.9368447086385492, 0.4686756566668232, 1.9368447087097227, 0.4686756566668232, 1.9368447087016203, 0.4686756566668232, 0.46867565666279715, 0.4686756566668232, 0.4686756566668232, 0.00050660462392382408, 0.00050660462392382408, 0.4686756566668232, 0.46867565666561334, 0.4686756566668232, 0.53233755258102444, 0.00050660462402099342, 0.4686756566668232, 0.00050660462392382408, 0.00050660462392382408, 0.00050660462392382408, 0.4686756566668232, 0.4686756566668232, 0.4686756566668232, 0.00050660462392382408, 0.00050660462392382408, 4.4050137607526221, 0.00050660462405774647, 0.00050660462392382408, 0.00050660462392382408, 0.4686756566668232, 0.00050660462392382408, 0.4686756566668232, 0.00050660462392382408, 0.00050660462392382408, 0.00050660462392382408, 0.00050660462392382408, 0.4686756566668232, 0.00050660462392382408, 0.4686756566668232, 0.4686756566668232, 0.00050660462392382408, 1.9368447087097227, 0.4686756566668232, 0.4686756566668232, 0.00050660462392382408, 0.4686756566668232, 0.00050660462392382408, 0.00050660462392382408, 0.00050660462392382408, 0.00050660462392382408, 0.00050660462392382408, 0.4686756566668232, 0.00050660462392382408, 0.4686756566668232, 0.53233755258102444, 0.00050660462392382408, 0.00050660462392382408, 0.00050660462392382408, 0.4686756566668232, 0.4686756566668232, 0.00050660462392382408, 0.53233755258102444, 0.00050660462392382408, 0.00050660462392382408, 0.53233755258102444, 0.00050660462392382408, 0.4686756566668232, 0.4686756566668232, 0.4686756566668232, 2.0641685005381252, 0.4686756566668232, 0.4686756566668232, 0.00050660462392382408, 0.46867565666167926, 0.00050660462392382408, 0.53233755258102444, 0.4686756566668232, 0.00050660462392382408, 0.4686756566668232, 0.4686756566668232, 0.4686756566668232, 0.4686756566668232, 0.4686756566668232, 0.4686756566668232, 0.4686756566668232, 0.00050660462392382408, 0.00050660462392382408, 0.4686756566668232, 0.4686756566668232, 0.00050660462392382408, 0.00050660462392899779, 0.00050660462392382408, 0.4686756566668232, 0.00050660462392382408, 0.00050660462392382408, 0.00050660462395263274, 0.00050660462392382408, 0.00050660462392382408, 0.00050660462392382408, 0.4686756566668232, 0.00050660462392382408, 0.4686756566668232, 0.4686756566668232, 0.4686756566668232, 0.53233755258102444, 0.00050660462392382408, 0.00050660462392382408, 0.00050660462392382408, 0.00050660462392382408, 0.4686756566668232, 0.00050660462392382408, 0.00050660462392382408, 0.00050660462392382408, 0.00050660462392382408, 0.46867565666632444, 0.00050660462392382408, 0.00050660462392382408, 0.4686756566668232, 0.00050660462392382408]
+Average error: 0.380718648312
+('Max error:', 4.4050137607526221, 'Median error:', 0.4686756566668232)
+
